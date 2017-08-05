@@ -12,5 +12,5 @@
 ![oldboy] (http://www.igo100.cc/images/logo.jpg)
 	
 	while true:
-	 do echp  hehe:
- 	   done 
+ 	   do echo  hehe;
+ 	done 
